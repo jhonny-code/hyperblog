@@ -2,3 +2,8 @@ Mi nombre es jhonny iriarte condori.
 
 tengo 26 años.
 
+soy ingeniero financiero.
+
+soy desarrollador backend en php.
+
+hablo el quechua y español.
